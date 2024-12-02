@@ -69,7 +69,10 @@ The application features a console-based user interface where all interactions o
    git clone https://github.com/haileyChen35/Restaurant-System.git
    ```
 2. Open the project in your preferred IDE (e.g., Visual Studio).
-3. Ensure the terminal is navigated to the MyConsoleApp directory.
+3. Ensure the terminal is navigated to the RestaurantSystem directory:
+   ```
+   cd RestaurantSystem
+   ```
 4. Run the program by entering **dotnet run** in the terminal.
 
 ## Code Overview
