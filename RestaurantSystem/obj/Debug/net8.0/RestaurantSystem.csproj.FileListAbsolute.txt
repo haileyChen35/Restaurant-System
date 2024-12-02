@@ -1,0 +1,14 @@
+/Users/huilingchen/RestaurantSystem/bin/Debug/net8.0/RestaurantSystem
+/Users/huilingchen/RestaurantSystem/bin/Debug/net8.0/RestaurantSystem.deps.json
+/Users/huilingchen/RestaurantSystem/bin/Debug/net8.0/RestaurantSystem.runtimeconfig.json
+/Users/huilingchen/RestaurantSystem/bin/Debug/net8.0/RestaurantSystem.dll
+/Users/huilingchen/RestaurantSystem/bin/Debug/net8.0/RestaurantSystem.pdb
+/Users/huilingchen/RestaurantSystem/obj/Debug/net8.0/RestaurantSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huilingchen/RestaurantSystem/obj/Debug/net8.0/RestaurantSystem.AssemblyInfoInputs.cache
+/Users/huilingchen/RestaurantSystem/obj/Debug/net8.0/RestaurantSystem.AssemblyInfo.cs
+/Users/huilingchen/RestaurantSystem/obj/Debug/net8.0/RestaurantSystem.csproj.CoreCompileInputs.cache
+/Users/huilingchen/RestaurantSystem/obj/Debug/net8.0/RestaurantSystem.dll
+/Users/huilingchen/RestaurantSystem/obj/Debug/net8.0/refint/RestaurantSystem.dll
+/Users/huilingchen/RestaurantSystem/obj/Debug/net8.0/RestaurantSystem.pdb
+/Users/huilingchen/RestaurantSystem/obj/Debug/net8.0/RestaurantSystem.genruntimeconfig.cache
+/Users/huilingchen/RestaurantSystem/obj/Debug/net8.0/ref/RestaurantSystem.dll
